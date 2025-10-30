@@ -3,5 +3,5 @@
 - [Stack-based PL](https://github.com/alexandru-dinu/spool)
 
 ## Research Papers
-- https://github.com/CrowdStrike/embersim-databank
-- https://github.com/CrowdStrike/pymalevasion
+- [EMBERSim: A Large-Scale Databank for Boosting Similarity Search in Malware Analysis](https://github.com/CrowdStrike/embersim-databank)
+- [PyMalEvasion: Generative AI-based Adversarial Evasion in Python Scripts](https://github.com/CrowdStrike/pymalevasion)
