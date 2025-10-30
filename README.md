@@ -1,4 +1,4 @@
-## Hobbies
+## Recreational
 - 🎄 [Advent of Code](https://github.com/alexandru-dinu/programming-challenges/tree/main/advent-of-code) and other [programming challenges](https://github.com/alexandru-dinu/programming-challenges)
 - 🧵 [Spool](https://github.com/alexandru-dinu/spool): a toy, stack-based PL
 
