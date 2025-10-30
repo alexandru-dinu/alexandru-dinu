@@ -1,6 +1,6 @@
 ## Hobbies
 - 🎄 [Advent of Code](https://github.com/alexandru-dinu/programming-challenges/tree/main/advent-of-code)
-- [Stack-based PL](https://github.com/alexandru-dinu/spool)
+- [Spool](https://github.com/alexandru-dinu/spool): a toy, stack-based PL
 
 ## Research Papers
 - [EMBERSim: A Large-Scale Databank for Boosting Similarity Search in Malware Analysis](https://github.com/CrowdStrike/embersim-databank)
