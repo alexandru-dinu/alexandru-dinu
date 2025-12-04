@@ -8,3 +8,6 @@
 - [Code Generation as a Dual Task of Code Summarization](https://github.com/code-gen/cscg)
 - [3D Face Reconstruction from a Single Image using Direct Volumetric CNN Regression](https://github.com/alexandru-dinu/3D-face-reconstruction)
 - [Compressive AutoEncoder](https://github.com/alexandru-dinu/cae)
+
+## Configs
+- [Neovim](https://github.com/alexandru-dinu/gizmos/tree/main/.config/nvim)
